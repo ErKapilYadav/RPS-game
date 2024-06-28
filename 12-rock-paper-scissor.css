@@ -1,0 +1,43 @@
+.img-css{ height: 70px;
+  width: 100px;
+  height:100px;
+  border: 2px solid;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+body{background-color: rgb(143, 143, 109);
+color: black;
+font-weight: bold;
+font-size: 25px;
+}
+.reset-css-button{cursor:pointer;
+padding: 10px;
+background-color: aqua;
+border: none;
+font-size: 20px;
+font-weight: bold;
+margin-top: 20px;}
+
+.result{font-family: Arial, Helvetica, sans-serif;
+margin-top: 60px;
+margin-bottom: 30px;}
+
+.score{font-family: Arial, Helvetica, sans-serif;
+margin-top: 60px;}
+
+.main-p-css{ height: 70px;
+  width: 100px;
+  height:100px;
+  border: 2px solid;
+  margin-left: 25px;
+  cursor: pointer;}
+
+  .auto-css{background-color: aqua;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+font-weight: bold;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+  }
